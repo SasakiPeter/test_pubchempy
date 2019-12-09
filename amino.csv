@@ -1,0 +1,21 @@
+CID,IsomericSMILES,y,name,split
+5950,C[C@@H](C(=O)O)N,0,alanine,test
+6322,C(C[C@@H](C(=O)O)N)CN=C(N)N,0,arginine,test
+6267,C([C@@H](C(=O)O)N)C(=O)N,0,asparagine,test
+5960,C([C@@H](C(=O)O)N)C(=O)O,1,aspartic acid,test
+5862,C([C@@H](C(=O)O)N)S,1,cysteine,test
+5961,C(CC(=O)N)[C@@H](C(=O)O)N,0,glutamine,test
+33032,C(CC(=O)O)[C@@H](C(=O)O)N,0,glutamic acid,train
+750,C(C(=O)O)N,0,glycine,train
+6274,C1=C(NC=N1)C[C@@H](C(=O)O)N,0,histidine,test
+6306,CC[C@H](C)[C@@H](C(=O)O)N,1,isoleucine,train
+6106,CC(C)C[C@@H](C(=O)O)N,1,leucine,test
+5962,C(CCN)C[C@@H](C(=O)O)N,0,lysine,train
+6137,CSCC[C@@H](C(=O)O)N,1,methionine,test
+6140,C1=CC=C(C=C1)C[C@@H](C(=O)O)N,1,phenylalanine,train
+614,C1CC(NC1)C(=O)O,1,proline,train
+5951,C([C@@H](C(=O)O)N)O,0,serine,train
+6288,C[C@H]([C@@H](C(=O)O)N)O,0,threonine,train
+6305,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,1,tryptophan,test
+6057,C1=CC(=CC=C1C[C@@H](C(=O)O)N)O,1,tyrosine,train
+6287,CC(C)[C@@H](C(=O)O)N,1,valine,test
