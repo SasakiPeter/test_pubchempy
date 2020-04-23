@@ -1,5 +1,6 @@
-# pubchempy から取得したSMILESでSDF作るテスト
+# pubchempy から取得した SMILES で SDF 作るテスト
 
-pubchemからアミノ酸のデータを取得して、sdfとcsvを作成する。
+pubchem からアミノ酸のデータを取得して、sdf と csv を作成する。
 
-アミノ酸のデータはIsomericSMILESで取得するから、rdkitで３D化する。
+アミノ酸のデータは IsomericSMILESで取得し、rdkit で3D化する。
+
